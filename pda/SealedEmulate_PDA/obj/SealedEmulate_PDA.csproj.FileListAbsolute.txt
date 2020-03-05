@@ -1,0 +1,706 @@
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\SealedEmulate_PDA.exe
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\SealedEmulate_PDA.pdb
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\System.Data.SqlClient.dll
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\System.Data.SqlClient.xml
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\ResolveAssemblyReference.cache
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmLogin.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.Properties.Resources.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.csproj.GenerateResource.Cache
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.exe
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.pdb
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmProcdut.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\database.xml
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmMain.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\dbnetlib.dll
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.InCome.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmSCSH.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmXSJH.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\database.xml
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmMain.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+E:\2017\二维码\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmMain.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\SealedEmulate_PDA.pdb
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\database.xml
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\dbnetlib.dll
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\SealedEmulate_PDA.exe
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmLogin.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmMain.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmProcdut.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmSCSH.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmXSJH.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.InCome.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.Properties.Resources.resources
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.csproj.GenerateResource.Cache
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.exe
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.pdb
+C:\Users\ZDDPC\Desktop\SealedEmulate_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\database.xml
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmMain.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmPwd.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\ResolveAssemblyReference.cache
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmLogin.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmMain.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmProcdut.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmPwd.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmSCSH.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmXSJH.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.InCome.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.Properties.Resources.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.csproj.GenerateResource.Cache
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.exe
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.pdb
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\database.xml
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\database.xml
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\dbnetlib.dll
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\SealedEmulate_PDA.exe
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\SealedEmulate_PDA.pdb
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\System.Data.SqlClient.dll
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Debug\System.Data.SqlClient.xml
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\ResolveAssemblyReference.cache
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmLogin.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmMain.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmProcdut.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmPwd.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmSCSH.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmXSJH.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.InCome.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.Properties.Resources.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmKCZC.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.InCome1.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.csproj.GenerateResource.Cache
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.exe
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.pdb
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmSCSH1.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Debug\SealedEmulate_PDA.frmProcdut1.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+G:\code\华密\code\WMS_PDA\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmMain.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmPwd.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\database.xml
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+F:\Code\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\database.xml
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmMain.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmPwd.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+G:\2019项目\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmMain.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmPwd.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\database.xml
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\database.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmMain.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmPwd.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-20\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\database.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmMain.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmPwd.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-06-25\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\Interop.SAPbobsCOM.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.ResolveComReference.cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGRK.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmCGGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXSGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXTGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSTH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmMain.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmPwd.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\database.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\Interop.SAPbobsCOM.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmSCGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSKCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGTH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmKCGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.KCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-6\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\Interop.SAPbobsCOM.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.ResolveComReference.cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGTH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmCGGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmKCGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmSCGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXSGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXTGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.KCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSKCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSTH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmMain.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmPwd.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\database.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\bin\Release\Interop.SAPbobsCOM.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\SealedEmulate_PDA\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGSHKW.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGTH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmCGGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmKCGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmSCGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXSGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXTGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.KCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSKCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSTH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmMain.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmPwd.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\bin\Release\database.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test._.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\bin\Release\Newtonsoft.Json.Compact.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFLSQ.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2019-12-16\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJHSQ.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGTH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmMain.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.KCMK_KCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCFL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_KCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSJH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGTH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmCGGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmKCGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmSCGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXSGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.KCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFLSQ.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJHSQ.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSKCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSTH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test._.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXTGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmPwd.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\bin\Release\database.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmCGGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmKCGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmSCGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXSGL.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.XSMK_XSJH_SQ.resources
+G:\1-2019-06-14项目code\华密\PDA\启用\2020-02-10\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSTH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\bin\Release\database.xml
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGSH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGTH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmCGGL.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmKCGL.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmMain.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmPwd.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmSCGL.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXSGL.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXTGL.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.XSMK_XSJH_SQ.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.KCMK_KCZC.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCFL.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCSH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_KCZC.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSJH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSTH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGSH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGTH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmCGGL.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmKCGL.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmSCGL.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXSGL.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.KCZC.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFL.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFLSQ.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCSH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJHSQ.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSKCZC.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSTH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test._.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+D:\祁腾工作\条码\代码合并文件\代码合并文件\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\bin\Release\database.xml
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGSH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGTH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmCGGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmKCGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmMain.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmPwd.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmSCGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXSGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXTGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.XSMK_XSJH_SQ.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.KCMK_KCZC.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCFL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCSH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_KCZC.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSJH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSTH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGSH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGTH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmCGGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmKCGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmSCGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXSGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.KCZC.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFLSQ.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCSH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJHSQ.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSKCZC.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSTH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test._.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+D:\祁腾工作\条码\代码合并文件\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\bin\Release\database.xml
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGSH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGTH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmCGGL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmKCGL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmMain.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmPwd.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmSCGL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXSGL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXTGL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.XSMK_XSJH_SQ.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.KCMK_KCZC.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCFL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCSH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_KCZC.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSJH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSTH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGSH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGTH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmCGGL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmKCGL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmSCGL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXSGL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.KCZC.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFLSQ.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCSH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJHSQ.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSKCZC.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSTH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test._.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmBBGL.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Report.ItemOnHand.resources
+G:\1-2019-06-14项目code\华密\2020华密条码\new code\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Report.OwhsBinCode.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\bin\Release\database.xml
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGSH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGTH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmBBGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmCGGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmKCGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmMain.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmPwd.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmSCGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXSGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXTGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.XSMK_XSJH_SQ.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.KCMK_KCZC.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Report.ItemOnHand.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Report.OwhsBinCode.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCFL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCSH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_KCZC.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSJH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSTH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGSH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGTH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmCGGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmKCGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmSCGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXSGL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.KCZC.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFL.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFLSQ.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCSH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJHSQ.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSKCZC.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSTH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test._.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+D:\祁腾工作\条码\代码合并文件\new code\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\bin\Release\database.xml
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\bin\Release\dbnetlib.dll
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.exe
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\bin\Release\SealedEmulate_PDA.pdb
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.dll
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\bin\Release\System.Data.SqlClient.xml
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\ResolveAssemblyReference.cache
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGSH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.CGMK_CGTH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmBBGL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmCGGL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmKCGL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmMain.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmPwd.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmSCGL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXSGL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.frmXTGL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Global.XSMK_XSJH_SQ.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.KCMK_KCZC.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Report.OwhsBinCode.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCFL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.SCMK_SCSH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_KCZC.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSJH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.XSMK_XSTH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGSH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.CGTH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmCGGL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmKCGL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmSCGL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.frmXSGL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.KCZC.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFL.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCFLSQ.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.SCSH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSJHSQ.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSKCZC.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Forms.XSTH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmLogin.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test._.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH2.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Properties.Resources.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmKCZC.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.InCome1.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmSCSH1.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmProcdut1.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.frmXSJH1.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.Test.XSJH_TEST1.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.csproj.GenerateResource.Cache
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.exe
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA.pdb
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Report.YLZS.resources
+D:\祁腾工作\条码\最新代码\pda\pda\SealedEmulate_PDA\obj\Release\SealedEmulate_PDA._2020.Report.ItemOnHand.resources

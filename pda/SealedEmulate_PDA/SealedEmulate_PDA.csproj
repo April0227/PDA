@@ -1,0 +1,582 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B419B30E-8428-4D52-9B30-C3AD1EDD2064}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SealedEmulate_PDA</RootNamespace>
+    <AssemblyName>SealedEmulate_PDA</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.0</OSVersion>
+    <DeployDirSuffix>SealedEmulate_PDA</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <DeployDirPrefix>%25CSIDL_PROGRAM_FILES%25</DeployDirPrefix>
+    <ApplicationIcon>logo1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.WindowsCE.Forms" />
+    <Reference Include="mscorlib" />
+    <Reference Include="Newtonsoft.Json.Compact, Version=3.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\QT\Desktop\SBO_WMS\Packages\Newtonsoft.Json.Compact.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlClient, Version=3.0.3600.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataGrid" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="2020\CGMK_CGSH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\CGMK_CGSH.Designer.cs">
+      <DependentUpon>CGMK_CGSH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\CGMK_CGTH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\CGMK_CGTH.Designer.cs">
+      <DependentUpon>CGMK_CGTH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Global\frmBBGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Global\frmBBGL.Designer.cs">
+      <DependentUpon>frmBBGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Global\frmCGGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Global\frmCGGL.Designer.cs">
+      <DependentUpon>frmCGGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Global\frmKCGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Global\frmKCGL.Designer.cs">
+      <DependentUpon>frmKCGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Global\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Global\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Global\frmPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Global\frmPwd.Designer.cs">
+      <DependentUpon>frmPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Global\frmSCGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Global\frmSCGL.Designer.cs">
+      <DependentUpon>frmSCGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Global\frmXSGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Global\frmXSGL.Designer.cs">
+      <DependentUpon>frmXSGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Global\frmXTGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Global\frmXTGL.Designer.cs">
+      <DependentUpon>frmXTGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Global\XSMK_XSJH_SQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Global\XSMK_XSJH_SQ.Designer.cs">
+      <DependentUpon>XSMK_XSJH_SQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\KCMK_KCZC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\KCMK_KCZC.Designer.cs">
+      <DependentUpon>KCMK_KCZC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Report\ItemOnHand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Report\ItemOnHand.Designer.cs">
+      <DependentUpon>ItemOnHand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Report\OwhsBinCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Report\OwhsBinCode.Designer.cs">
+      <DependentUpon>OwhsBinCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\Report\YLZS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\Report\YLZS.Designer.cs">
+      <DependentUpon>YLZS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\SCMK_SCFL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\SCMK_SCFL.Designer.cs">
+      <DependentUpon>SCMK_SCFL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\SCMK_SCSH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\SCMK_SCSH.Designer.cs">
+      <DependentUpon>SCMK_SCSH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\XSMK_KCZC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\XSMK_KCZC.Designer.cs">
+      <DependentUpon>XSMK_KCZC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\XSMK_XSJH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\XSMK_XSJH.Designer.cs">
+      <DependentUpon>XSMK_XSJH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2020\XSMK_XSTH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2020\XSMK_XSTH.Designer.cs">
+      <DependentUpon>XSMK_XSTH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dal\HttpHelper.cs" />
+    <Compile Include="Dal\LoginState.cs" />
+    <Compile Include="Dal\Md5Helper.cs" />
+    <Compile Include="Dal\SqlHelper.cs" />
+    <Compile Include="Dal\UserDal.cs" />
+    <Compile Include="Forms\CGSH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CGSH.Designer.cs">
+      <DependentUpon>CGSH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CGTH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CGTH.Designer.cs">
+      <DependentUpon>CGTH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCGGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCGGL.Designer.cs">
+      <DependentUpon>frmCGGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmKCGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmKCGL.Designer.cs">
+      <DependentUpon>frmKCGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSCGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSCGL.Designer.cs">
+      <DependentUpon>frmSCGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmXSGL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmXSGL.Designer.cs">
+      <DependentUpon>frmXSGL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\KCZC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\KCZC.Designer.cs">
+      <DependentUpon>KCZC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SCFL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SCFL.Designer.cs">
+      <DependentUpon>SCFL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SCFLSQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SCFLSQ.Designer.cs">
+      <DependentUpon>SCFLSQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SCSH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SCSH.Designer.cs">
+      <DependentUpon>SCSH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XSJH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XSJH.Designer.cs">
+      <DependentUpon>XSJH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XSJHSQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XSJHSQ.Designer.cs">
+      <DependentUpon>XSJHSQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XSKCZC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XSKCZC.Designer.cs">
+      <DependentUpon>XSKCZC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XSTH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XSTH.Designer.cs">
+      <DependentUpon>XSTH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\1.Designer.cs">
+      <DependentUpon>1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\frmProcdut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\frmProcdut.Designer.cs">
+      <DependentUpon>frmProcdut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\frmSCSH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\frmSCSH.Designer.cs">
+      <DependentUpon>frmSCSH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\frmXSJH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\frmXSJH.Designer.cs">
+      <DependentUpon>frmXSJH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\frmXSJH2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\frmXSJH2.Designer.cs">
+      <DependentUpon>frmXSJH2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\InCome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\InCome.Designer.cs">
+      <DependentUpon>InCome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\BaseModel.cs" />
+    <Compile Include="Model\ConnModel.cs" />
+    <Compile Include="Model\UserModel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="2020\CGMK_CGSH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CGMK_CGSH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\CGMK_CGTH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CGMK_CGTH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Global\frmBBGL.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBBGL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Global\frmCGGL.resx">
+      <DependentUpon>frmCGGL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Global\frmKCGL.resx">
+      <DependentUpon>frmKCGL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Global\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Global\frmPwd.resx">
+      <DependentUpon>frmPwd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Global\frmSCGL.resx">
+      <DependentUpon>frmSCGL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Global\frmXSGL.resx">
+      <DependentUpon>frmXSGL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Global\frmXTGL.resx">
+      <DependentUpon>frmXTGL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Global\XSMK_XSJH_SQ.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XSMK_XSJH_SQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\KCMK_KCZC.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>KCMK_KCZC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Report\ItemOnHand.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ItemOnHand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Report\OwhsBinCode.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OwhsBinCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\Report\YLZS.resx">
+      <DependentUpon>YLZS.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\SCMK_SCFL.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SCMK_SCFL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\SCMK_SCSH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SCMK_SCSH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\XSMK_KCZC.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XSMK_KCZC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\XSMK_XSJH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XSMK_XSJH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2020\XSMK_XSTH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XSMK_XSTH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CGSH.resx">
+      <DependentUpon>CGSH.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CGTH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CGTH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCGGL.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCGGL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmKCGL.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmKCGL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSCGL.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSCGL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmXSGL.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmXSGL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\KCZC.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>KCZC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SCFL.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SCFL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SCFLSQ.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SCFLSQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SCSH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SCSH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\XSJH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XSJH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\XSJHSQ.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XSJHSQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\XSKCZC.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XSKCZC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\XSTH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XSTH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\frmProcdut.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmProcdut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\frmSCSH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSCSH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\frmXSJH.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmXSJH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\frmXSJH2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmXSJH2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\InCome.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>InCome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\frmKCZC.resx">
+      <DependentUpon>frmKCZC.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\InCome1.resx">
+      <DependentUpon>InCome1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\frmSCSH1.resx">
+      <DependentUpon>frmSCSH1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\frmProcdut1.resx">
+      <DependentUpon>frmProcdut1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\frmXSJH1.resx">
+      <DependentUpon>frmXSJH1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\XSJH_TEST1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XSJH_TEST1.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Test\frmKCZC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\frmKCZC.Designer.cs">
+      <DependentUpon>frmKCZC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\InCome1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\InCome1.Designer.cs">
+      <DependentUpon>InCome1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\frmSCSH1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\frmSCSH1.Designer.cs">
+      <DependentUpon>frmSCSH1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\frmProcdut1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\frmProcdut1.Designer.cs">
+      <DependentUpon>frmProcdut1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\frmXSJH1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\frmXSJH1.Designer.cs">
+      <DependentUpon>frmXSJH1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\XSJH_TEST1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\XSJH_TEST1.Designer.cs">
+      <DependentUpon>XSJH_TEST1.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="database.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dbnetlib.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="logo1.ico" />
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

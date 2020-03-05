@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <database>
+    <conn>server=192.168.1.196;database=AcomeTrace;uid=sa;pwd=123456</conn>
+    <CommonDB>SBO_HMXJ20170630</CommonDB>
+  </database>
+</root>
