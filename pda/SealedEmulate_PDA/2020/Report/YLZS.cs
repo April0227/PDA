@@ -15,7 +15,11 @@ namespace SealedEmulate_PDA._2020.Report
         {
             InitializeComponent();
         }
-
+        /// <summary>
+        /// github ≤‚ ‘”√
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void page2ItemCode_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter)
